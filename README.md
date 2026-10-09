@@ -33,15 +33,12 @@ Para disponibilizar mapas de alta precisão e dados meteorológicos completos, o
 
 1. **OpenWeather API**
    - **Finalidade:** Fornecimento de dados de clima em tempo real, previsões estendidas, índice UV e qualidade do ar.
-   - [Política de Privacidade da OpenWeather](https://openweather.co.uk/privacy-policy)
 
 2. **Mapbox**
    - **Finalidade:** Renderização de mapas estilizados em modo escuro e geocodificação reversa (identificação otimizada do nome do bairro e cidade com cache local).
-   - [Política de Privacidade da Mapbox](https://www.mapbox.com/legal/privacy)
 
 3. **ViaCEP**
    - **Finalidade:** Consulta e localização automática de municípios brasileiros através do CEP inserido pelo usuário.
-   - [Termos do ViaCEP](https://viacep.com.br/)
 
 ---
 
